@@ -1,0 +1,2 @@
+# Na-ve-Bayes-Sentiment-Analysis_Using_Beautiful_Soup
+Naïve Bayes classifiers are widely recognized for their efficacy at classifying text data (e.g., sentiment analysis). Many organizations rely on sentiment analysis algorithms to help them gauge the opinions of both existing and potential customers. Sentiment analysis algorithms to the online product/service reviews help influence business decisions
